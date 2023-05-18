@@ -123,6 +123,11 @@ docker build --build-arg DEEPCELL_VERSION=0.9.0-gpu -t vanvalenlab/deepcell-appl
 
 ### Changes 20230301
 
-* Add `imagecodec` for compatibility with LZW-compressed images
+* Add `imagecodecs` for compatibility with LZW-compressed images
 * Update `deepcell` requirement to `0.12.4`
 * Update `deepcell-tf` base to `0.12.4`
+
+### Changes 20230518
+
+* Update `deepcell` requirement to `0.12.5`
+* merge upstream
