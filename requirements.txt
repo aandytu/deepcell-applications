@@ -1,4 +1,4 @@
-deepcell==0.12.4
+deepcell>=0.12.5
 numpy
 tifffile
 imagecodecs
